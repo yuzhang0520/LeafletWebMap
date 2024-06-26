@@ -1,0 +1,2 @@
+# LeafletWebMap
+ This project is an interactive web map application built using Leaflet, a leading open-source JavaScript library for mobile-friendly maps. The application allows users to view, create, edit, and delete various shapes on the map, such as lines, polygons, rectangles, circles, markers, and circle markers. Users can also add and edit text annotations within pop-up windows associated with each shape and utilize a search functionality to find shapes based on their annotations.
